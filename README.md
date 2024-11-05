@@ -16,7 +16,7 @@ Este projeto é uma aplicação web que apresenta serviços de marketing digital
 - HTML5
 - CSS3
 - JavaScript
-- Frameworks (especificar, se aplicável)
+- JQuery
 
 
 ## Contato
