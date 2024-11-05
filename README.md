@@ -1,6 +1,6 @@
 # Agência Bold
 
-Bem-vindo ao repositório da Agência Bold! Este projeto foi desenvolvido como parte do curso, e aqui você encontrará todos os detalhes necessários para entender e contribuir para o projeto.
+Bem-vindo ao repositório da Agência Bold! Este projeto foi desenvolvido como parte do curso Front-End 2.0 (DankiCode), e aqui você encontrará todos os detalhes necessários para entender e contribuir para o projeto.
 
 ## Links Importantes
 
